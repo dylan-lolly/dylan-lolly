@@ -11,4 +11,6 @@
 - ⚡ Fun fact: ... I've gone skydiving from 14,000ft.
 -->
 
-## Hello, world! I'm a new software developer enrolled with Tech Elevator.
+Hello, world! I'm a new software developer enrolled with Tech Elevator.
+I have some knowledge of Java in IntelliJ and am currently learning
+about databases useing pgADMIN. Riviting stuff, I know.
