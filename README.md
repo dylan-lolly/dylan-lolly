@@ -11,6 +11,14 @@
 - ⚡ Fun fact: ... I've gone skydiving from 14,000ft.
 -->
 
-Hello, world! I'm a new software developer enrolled with Tech Elevator.
-I have some knowledge of Java in IntelliJ and am currently learning
-about databases useing pgADMIN. Riviting stuff, I know.
+Hello, GitHub! I am a full-stack Java developer with formal training from Tech Elevator.
+My experience includes but is not limited to: 
+**software such as** Java, PostgreSQL, JavaScript, HTML, CSS, IntelliJ, VSCode,
+**libraries and frameworks** like Sprint Boot and Vue.js,
+**and techniques like** unit testing, integration testing, E/R design, table design, DAOs,
+RESTful APIs, and JDBC.
+
+While I have yet to secure gainful employment that utilizes what I've learned I am eager
+to start developing some applications for myself and family to help make our lives a bit
+easier and more organized. My first few applications will be based in what I know but I
+am interested in branching out as well. The first language I want to learn next is Python.
