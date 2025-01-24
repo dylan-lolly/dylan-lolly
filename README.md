@@ -12,9 +12,9 @@
 -->
 
 Hello, GitHub! I am a full-stack Java developer with formal training from Tech Elevator.
-My experience includes but is not limited to: 
-**software such as** Java, PostgreSQL, JavaScript, HTML, CSS, IntelliJ, VSCode,
-**libraries and frameworks** like Sprint Boot and Vue.js,
+My experience includes but is not limited to:<br/>
+**software such as** Java, PostgreSQL, JavaScript, HTML, CSS, IntelliJ, VSCode,<br/>
+**libraries and frameworks** like Sprint Boot and Vue.js,<br/>
 **and techniques like** unit testing, integration testing, E/R design, table design, DAOs,
 RESTful APIs, and JDBC.
 
