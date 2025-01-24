@@ -19,6 +19,5 @@ My experience includes but is not limited to:<br/>
 RESTful APIs, and JDBC.
 
 While I have yet to secure gainful employment that utilizes what I've learned I am eager
-to start developing some applications for myself and family to help make our lives a bit
-easier and more organized. My first few applications will be based in what I know but I
+to start developing some applications for myself, family, friends, and local businesses. My first few applications will be based in what I know but I
 am interested in branching out as well. The first language I want to learn next is Python.
